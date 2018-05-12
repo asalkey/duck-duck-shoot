@@ -2,7 +2,7 @@
 1. Install node
 2. Clone app
 3. cd into folder and npm install
-4. run node app in the command line
+4. type "node app" in the command line
 5. Go to http://localhost:8080/
 
 # OPTION 2
