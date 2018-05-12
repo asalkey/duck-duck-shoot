@@ -167,6 +167,7 @@ BasicGame.Game.prototype = {
         }
 
         if(lives < 0){
+            music.stop();
             this.state.start('Lose');
         }
 
