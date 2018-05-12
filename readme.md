@@ -12,4 +12,10 @@
 1. Setup any type of local server any way you know how to
 2. Point the web root to the htdocs folder from gitrepo 
 
+#MUSIC
+    //"Alto Gong, Metal Hit, B (H6 XY).wav" by InspectorJ of Freesound.org
+    //Error.wav by Autistic Lucario of Freesound.org
+    //Old Mo by Yubatake https://opengameart.org/content/old-mo
 
+#ART
+    Kenney https://kenney.nl/
